@@ -10,7 +10,17 @@ https://github.com/timxor/leetcode-journal
 665. Non-decreasing array - Medium
 1929. Concatenation of Array - easy https://leetcode.com/problems/concatenation-of-array/
 
-07/19/2021 Monday July 19 2021
+07/19/2021
+Monday July 19 2021
+- 1822. Sign of the Product of an Array
+
+
+
+
+
+
+
+
 665. Non-decreasing array - Medium
 1929. Concatenation of Array - easy https://leetcode.com/problems/concatenation-of-array/
 
