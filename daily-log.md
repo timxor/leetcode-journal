@@ -12,13 +12,8 @@ https://github.com/timxor/leetcode-journal
 
 07/19/2021
 Monday July 19 2021
+??????????
 - 1822. Sign of the Product of an Array
-
-
-
-
-
-
 
 
 665. Non-decreasing array - Medium
@@ -29,6 +24,7 @@ https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessme
 
 
 Tuesday July 20 2021
+????????
 - Partition Array into N subsets with balanced Sum
 https://leetcode.com/discuss/interview-question/430981/
 - 253. Meeting Rooms II
@@ -38,6 +34,14 @@ https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 
 
 Wednesday July 21 2021
+??????
+
+
+
+
+
+
+
 - Largest K such that both K and -K exist in Array
 https://leetcode.com/discuss/interview-question/406031/
 - 1239. Maximum Length of a Concatenated String with Unique Characters
