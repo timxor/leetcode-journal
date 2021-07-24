@@ -1,6 +1,13 @@
 microsoft online assessment
 
 
+
+
+- microsoft online assessment questions
+https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions
+  
+
+
 problems
 https://leetcode.com/problemset/all/?listId=55vr69d7
 
