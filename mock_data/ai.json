@@ -1,0 +1,50 @@
+[
+	{
+		"id" : 0,
+		"company" : "company 1",
+		"address" : "1234 Main St.",
+		"city" : "Austin",
+		"state" : "Texas",
+		"start_with_acceptance_ai" : "10/13/2020",
+		"project" : "build full stack project",
+		"project_duration_estimate" : "1 month",
+		"hourly_billing_rate" : "50",
+		"billing_month": [
+			{
+				"monthly_billing" : "400",
+				"monthly_hours" : "8",
+				"month_billed" : "October"
+			}
+		]
+
+	},
+	{
+		"id" : 1,
+		"company" : "company 2",
+		"address" : "567 Main St.",
+		"city" : "Chicago",
+		"state" : "Illinois",
+		"start_with_acceptance_ai" : "11/13/2020",
+		"project" : "build full stack project",
+		"project_duration_estimate" : "3 month",
+		"hourly_billing_rate" : "50",
+		"billing_month": [
+			{
+				"monthly_billing" : "1000",
+				"monthly_hours" : "20",
+				"month_billed" : "November"
+			},
+			{
+				"monthly_billing" : "2000",
+				"monthly_hours" : "40",
+				"month_billed" : "December"
+			},
+			{
+				"monthly_billing" : "2200",
+				"monthly_hours" : "24",
+				"month_billed" : "January"
+			},
+		]
+
+	}
+];
