@@ -1,12 +1,13 @@
 # leetcode-journal
-leetcode-journal
-
-see ./daily-log.md
 
 
-This repo: https://github.com/timxor/leetcode-journal
+- [daily-log.md](./daily-log.md)
 
 
+This repo: [https://github.com/timxor/leetcode-journal](https://github.com/timxor/leetcode-journal)
+
+
+<<<<<<< HEAD
 Grokking the Advanced System Design Interview
 https://www.educative.io/courses/grokking-adv-system-design-intvw
 
@@ -34,3 +35,5 @@ https://www.teamblind.com/post/giving-back---how-i-cleared-l6-system-design---pa
 
 
 
+=======
+>>>>>>> 98d4d02c9eb2e22b73b988ffc3b9fe34b9722a8a

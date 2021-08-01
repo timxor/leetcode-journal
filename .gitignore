@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 *.DS_Store
 
@@ -5,6 +6,18 @@
 
 # Object file
 *.o
+=======
+.DS_Store
+.idea
+.idea/misc.xml
+*.iml
 
-# Ada Library Information
-*.ali
+
+
+
+
+
+
+
+>>>>>>> 98d4d02c9eb2e22b73b988ffc3b9fe34b9722a8a
+
