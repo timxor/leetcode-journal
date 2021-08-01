@@ -23,16 +23,27 @@ Friday July 23 2021
 
 Saturday July 24 2021
 
-
-
-
-
-
-
-
-
-
 Sunday July 25 2021
+Monday 26
+Tuesday 27
+Wednesday 28
+Thursday 29
+Friday 30
+Saturday 31
+
+Sunday August 1
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 to do problems
@@ -59,16 +70,3 @@ https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-un
 https://leetcode.com/discuss/interview-question/351783/
 - Min Steps to Make Piles Equal Height
 https://leetcode.com/discuss/interview-question/364618/
-
-
-
-
-
-
-
-
-
-
-
-
-
