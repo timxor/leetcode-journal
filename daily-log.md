@@ -32,7 +32,15 @@ Friday 30
 Saturday 31
 
 Sunday August 1
+Trees
+543. Diameter of Binary Tree
+https://leetcode.com/problems/diameter-of-binary-tree/
 
+
+
+Monday August 2
+
+Tuesday August 3
 
 
 
