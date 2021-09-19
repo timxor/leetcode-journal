@@ -44,6 +44,11 @@ Tuesday August 3
 
 
 
+Sunday September 12
+hard - trapping rain water
+https://leetcode.com/problems/trapping-rain-water/discuss/17386/Sharing-my-Java-code%3A-O(n)-time-O(1)-space
+
+
 
 
 
