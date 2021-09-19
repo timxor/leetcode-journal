@@ -14,7 +14,7 @@ https://leetcode.com/contest/weekly-contest-259/
 2. Sum of Beauty in the Array
 	- Score: 4
 	- Level: Medium
-	- Completed: Work in Progress
+	- Completed: No. Unwieldy with constri
 
 3. Detect Squares
         - Score: 5
@@ -23,5 +23,5 @@ https://leetcode.com/contest/weekly-contest-259/
 
 4. Longest Subsequence Repeated k Times
         - Score: 6
-        - Level: Medium
+        - Level: Hard
         - Completed: No
